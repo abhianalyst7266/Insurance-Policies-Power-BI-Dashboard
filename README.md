@@ -1,4 +1,5 @@
 **Insurance Policies Data Analysis Dashboard using Power BI**
+
 **Project Overview**
 This project presents an interactive Insurance Policies Data Analysis Dashboard developed using Microsoft Power BI. The dashboard helps analyze insurance claims, customer demographics, vehicle information, education levels, marital status, and claim distribution.
 The objective is to transform insurance data into meaningful insights that can help understand customer behavior, identify claim patterns, and support data-driven insurance business decisions.
@@ -21,7 +22,7 @@ _The dashboard includes the following visualizations:_
  - Claim Count by Car Make
  - Claim Amount by Education Level
  - Gender-wise Claim Distribution
- - 
+
 **Tools and Technologies**
  - Microsoft Power BI
  - Power Query
